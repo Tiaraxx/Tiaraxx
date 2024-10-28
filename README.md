@@ -1,28 +1,43 @@
-¡Hola, mundo! 🌍
-Sobre mí 🌸
-¡Hola! Soy Tiara, una joven apasionada por el mundo del desarrollo y el diseño. Con 19 años y llena de curiosidad, actualmente estoy trabajando en una pasantía en diseño y creación de software. Estoy a punto de iniciar mi camino en la universidad, y me encanta descubrir, aprender y construir cosas increíbles.
+# ¡Hello, World! 🌍
 
-Tecnologías y habilidades 💻
+## About me 🌸
 
-HTML y CSS – ¡mi primer amor! La base de todo lo que construyo en la web 🌐
-JavaScript (básico) – poco a poco le voy tomando el ritmo a esta maravilla
-Python (básico) – ¡la clave de muchas cosas geniales!
-Git – controlando versiones como pro
-Node.js – explorando el lado backend 🌌
-UX/UI y Figma – diseñando interfaces que combinan funcionalidad y estilo
-Inglés – nivel intermedio, ¡aprendiendo más cada día!
+Hi! I'm Tiara, a young girl passionate about the world of development and design. At 19 years old and full of curiosity, I'm currently working on an internship in software design and creation. I'm about to start my journey at university, and I love discovering, learning, and building amazing things.
 
-Aprendiendo 📚
-Más de JavaScript y Node.js – ¡siempre hay algo nuevo que aprender!
+## Technologies and skills 💻
 
-¿Qué encontrarán aquí? 🚀
+HTML and CSS: my first skills! The foundation of everything I create on the web 🌐
 
-Proyectos de práctica y experimentación
-Pequeñas ideas que me emocionan
-Aprendizajes, errores y mejoras en mi código ✨
+JavaScript (basic): I'm slowly getting used to this wonder and reinforcing my knowledge every day.
 
-Próximos pasos 🛤️
-En esta aventura universitaria que está por empezar, quiero seguir explorando el mundo del desarrollo web, el diseño UX/UI y quizás hasta aplicaciones móviles.
+Python (basic): the key to many cool things and something I work on improving every day!
 
-Contacto 💌
-Si tienes consejos, oportunidades o quieres conectar, ¡me encantaría! Puedes encontrarme en LinkedIn o mándame un correo a tu-email@example.com.
+Git: version control and learning more and more, going deeper into each command and functionality.
+
+Node.js: exploring the backend 🌌
+
+UX/UI and Figma: designing interfaces that combine functionality and style.
+
+English: intermediate level, I learn more every day!
+
+## Aprendiendo 📚
+More JavaScript, Python, Bootstrap and Node.js – there’s always something new to learn!
+
+## Frameworks 🚀
+Express - Node.js
+
+Bootstrap - CSS
+
+Flask - Python
+
+## What will you find here? 🚀
+
+Practice and experimentation projects
+Small ideas that excite me
+Learnings, mistakes and improvements in my code ✨
+
+## Next steps 🛤️
+In this university adventure that is about to begin, I want to continue exploring the world of web development, UX/UI design and perhaps even mobile applications.
+
+## Contacto 💌
+Si tienes consejos, oportunidades o quieres conectar, ¡me encantaría! Puedes encontrarme en LinkedIn o mándame un correo a penatiara5@gamil.con
