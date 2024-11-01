@@ -40,4 +40,4 @@ Learnings, mistakes and improvements in my code ✨
 In this university adventure that is about to begin, I want to continue exploring the world of web development, UX/UI design and perhaps even mobile applications.
 
 ## Contacto 💌
-Si tienes consejos, oportunidades o quieres conectar, ¡me encantaría! Puedes encontrarme en LinkedIn o mándame un correo a penatiara5@gamil.con
+If you have any tips, opportunities or want to connect, I'd love to! You can find me on LinkedIn or email me at tiaraprdgz@gmail.com
