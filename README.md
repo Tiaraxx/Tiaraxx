@@ -21,7 +21,7 @@ UX/UI and Figma: designing interfaces that combine functionality and style.
 English: intermediate level, I learn more every day!
 
 ## Learning 📚
-More JavaScript, Python, Bootstrap and Node.js – there’s always something new to learn!
+More JavaScript, Python, Bootstrap Node.js and C# – there’s always something new to learn!
 
 ## Frameworks 🚀
 Express - Node.js (Learning)
